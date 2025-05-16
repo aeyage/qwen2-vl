@@ -1,13 +1,13 @@
 # Qwen2-VL Model
 
-This codebase contains source code for fine-tuning the Qwen2-VL VLM from Alibaba Cloud on custom datasets using Hugging Face datasets. It features a Gradio web interface and a python script for command-line execution.
+This codebase contains the script for fine-tuning the Qwen2-VL VLM from Alibaba Cloud on custom datasets using Hugging Face datasets. It features a Gradio web interface and a python script for command-line execution.
 
 ## Features
 
-- Finetune Qwen2-VL model on custom HuggingFace datasets
+- Fine tune Qwen2-VL model on custom Hugging Face (HF) datasets
 - Gradio web interface for interactive model training
 - Command-line script for batch processing
-- Customizable training parameters
+- Customisable training parameters
 - Validation during training
 
 ## Installation
